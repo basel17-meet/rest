@@ -255,7 +255,7 @@ public class UserDB extends SQLiteOpenHelper {
     private static final String TABLE_MEAL = "meal";
 
     // users Table Columns names
-    private static final String KEY_ID = "id";  
+    private static final String KEY_ID = "id";
     private static final String KEY_NAME = "name";
     private static final String KEY_USERNAME = "username";
     private static final String KEY_PASSWORD = "password";
